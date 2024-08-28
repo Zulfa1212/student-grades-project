@@ -13,5 +13,3 @@ The Grade Calculator project was designed to automate the process of calculating
 - Integrated Development Environment (IDE) for coding and debugging.
 - Console.WriteLine() for formatted output display.
 - Data type conversion tools and functions for accurate calculations.
-
-## Steps
